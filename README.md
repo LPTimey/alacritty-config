@@ -1,11 +1,12 @@
 # My Alacritty Config
 
 place in
-'''bash
+```bash
 #Linux and Mac
 ~/.config/alacritty/
-'''
+```
 or
-'''
+```bash
+#Windows
 %APPDATA%\alacritty
-'''
+```
