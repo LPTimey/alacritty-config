@@ -11,6 +11,7 @@
 import:
   #  - /path/to/alacritty.yml
   - ~/.config/alacritty/themes/themes/catppuccin_mocha.yaml
+  - C:\Users\tim_win\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.yaml
 # Any items in the `env` entry below will be added as
 # environment variables. Some entries may override variables
 # set by alacritty itself.
