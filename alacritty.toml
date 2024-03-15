@@ -1,4 +1,7 @@
-import = ["/home/tim/.config/alacritty/themes/themes/catppuccin_mocha.toml", 'C:\Users\tim_win\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.yaml']
+import = [
+  "/home/tim/.config/alacritty/themes/themes/catppuccin_mocha.toml",
+  'C:\Users\tim_win\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.toml',
+]
 
 [env]
 TERM = "alacritty"
