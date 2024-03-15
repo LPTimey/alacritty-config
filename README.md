@@ -1,12 +1,26 @@
 # My Alacritty Config
 
-place in
+## Install
+
+Linux and Mac:
+
 ```bash
-#Linux and Mac
+git clone --recursive git@github.com:LPTimey/alacritty-config.git ~/.config/alacritty/
+```
+
+## Manual install
+
+### place in
+
+Linux and Mac:
+
+```bash
 ~/.config/alacritty/
 ```
+
 or
+Windows:
+
 ```bash
-#Windows
 %APPDATA%\alacritty
 ```
