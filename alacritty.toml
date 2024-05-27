@@ -1,6 +1,6 @@
 import = [
   "~/.config/alacritty/themes/themes/catppuccin_mocha.toml",
-  'C:\Users\tim_win\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.toml',
+  '~\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.toml',
 ]
 
 [env]
