@@ -1,4 +1,4 @@
-import = [
+general.import = [
   "~/.config/alacritty/themes/themes/catppuccin_mocha.toml",
   '~\AppData\Roaming\alacritty\themes\themes\catppuccin_mocha.toml',
 ]
